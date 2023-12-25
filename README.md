@@ -11,3 +11,9 @@ $MSE = \frac{1}{2n}\sum_{n}(\hat{y}-y)^{2}$
 
 ### Training
 Paramter vector $\theta$ is chosen at random and the linear regression model undergoes gradient descent for 120,000 epochs until convergence at the optimal $\theta$ vector.
+
+<img width="908" alt="Screenshot 2023-12-25 at 14 35 48" src="https://github.com/CallihanB03/Linear.Regression.From.Scratch/assets/123860294/ca117fd9-4315-422e-9d2b-3977c46398f4">
+
+### Evaluation
+Model evaluated on testing data
+
