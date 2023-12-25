@@ -16,6 +16,7 @@ Paramter vector $\theta$ is chosen at random and the linear regression model und
 
 ## Evaluation
 Model evaluated on testing data
+
 <img width="646" alt="Screenshot 2023-12-25 at 14 48 45" src="https://github.com/CallihanB03/Linear.Regression.From.Scratch/assets/123860294/6bfc1f9d-f102-4832-b7d4-7e90b27134c4">
 
 # Conclusions
