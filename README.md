@@ -7,7 +7,7 @@ The Data can be found here: [kaggle.com](https://www.kaggle.com/code/vivinbarath
 
 ### Loss
 The Linear Regression Model makes use of a simple Mean Squared Error (MSE) Loss function:
-$MSE = \frac{1}{2n}\sum{n}(\hat{y}-y)$
+$MSE = \frac{1}{2n}\sum_{n}(\hat{y}-y)^{2}$
 
 ### Training
 Paramter vector $\theta$ is chosen at random and the linear regression model undergoes gradient descent for 120,000 epochs until convergence at the optimal $\theta$ vector.
